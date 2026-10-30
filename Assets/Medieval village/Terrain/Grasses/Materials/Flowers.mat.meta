@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 49601884cb0e25d41946ae95bd6ed1cf
+timeCreated: 1513435415
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Terrain/Grasses/Materials/Flowers.mat
+  uploadId: 437416

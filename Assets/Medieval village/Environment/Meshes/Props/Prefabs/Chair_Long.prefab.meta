@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2a48b466f3659624498febcc039b54d5
+timeCreated: 1527520471
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Props/Prefabs/Chair_Long.prefab
+  uploadId: 437416

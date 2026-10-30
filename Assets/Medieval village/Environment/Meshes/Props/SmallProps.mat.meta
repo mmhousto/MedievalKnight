@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 13f1178d97c789540af96daa8851ff9f
+timeCreated: 1527493416
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Props/SmallProps.mat
+  uploadId: 437416

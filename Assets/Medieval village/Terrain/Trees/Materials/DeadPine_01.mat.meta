@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: aa1be28fa0920c640b8c3f130901a59d
+timeCreated: 1455017434
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Terrain/Trees/Materials/DeadPine_01.mat
+  uploadId: 437416

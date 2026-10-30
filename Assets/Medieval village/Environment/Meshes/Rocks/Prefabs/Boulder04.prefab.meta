@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3f75ebada79bcd0449b8acc34cd85348
+timeCreated: 1528211124
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Rocks/Prefabs/Boulder04.prefab
+  uploadId: 437416

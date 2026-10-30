@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 0838a134da9d3084e919eb8cf7efbcf7
+timeCreated: 1527329121
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Props/Prefabs/Fence_S02.prefab
+  uploadId: 437416

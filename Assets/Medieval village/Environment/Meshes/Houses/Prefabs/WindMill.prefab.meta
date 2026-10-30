@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 428bf35aa8e53af4190174ac261a18ab
+timeCreated: 1545056826
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Houses/Prefabs/WindMill.prefab
+  uploadId: 437416

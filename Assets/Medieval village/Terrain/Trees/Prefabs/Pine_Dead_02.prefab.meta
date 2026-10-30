@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: b04dfaa9ddc0c334cb6c806cdac86778
+timeCreated: 1517643885
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Terrain/Trees/Prefabs/Pine_Dead_02.prefab
+  uploadId: 437416

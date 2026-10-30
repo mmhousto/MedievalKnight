@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: fe7f2a610eee98249b49ece910210947
+timeCreated: 1527401904
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Props/Prefabs/CutedWood02.prefab
+  uploadId: 437416

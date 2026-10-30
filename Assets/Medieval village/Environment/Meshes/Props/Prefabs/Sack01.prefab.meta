@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 3d0d7513a6cff1e48b0a19832c4d9650
+timeCreated: 1527522689
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Props/Prefabs/Sack01.prefab
+  uploadId: 437416

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8923c12311bb40041815af3fc628ab85
+timeCreated: 1527520786
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Props/Prefabs/GridingStone.prefab
+  uploadId: 437416

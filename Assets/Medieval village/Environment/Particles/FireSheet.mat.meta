@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d8054a99a338d5140b656816280cd8c5
+timeCreated: 1528621239
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Particles/FireSheet.mat
+  uploadId: 437416
