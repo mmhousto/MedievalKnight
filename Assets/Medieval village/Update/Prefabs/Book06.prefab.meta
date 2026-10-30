@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 793fe94c7c6702f459ab5a04b297430c
+timeCreated: 1543834262
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Update/Prefabs/Book06.prefab
+  uploadId: 437416

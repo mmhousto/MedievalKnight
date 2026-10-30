@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 06ec37286862c5a4589263ace175cde7
+timeCreated: 1544882454
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Update/Prefabs/Closet3.prefab
+  uploadId: 437416

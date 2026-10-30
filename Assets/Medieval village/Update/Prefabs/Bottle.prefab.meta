@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 7adc3a894f136de4f81d0b913c7faf7a
+timeCreated: 1543835960
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Update/Prefabs/Bottle.prefab
+  uploadId: 437416

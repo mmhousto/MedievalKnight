@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 5125a7830aa37f142a8c64a72ef74b95
+timeCreated: 1543842313
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Update/Prefabs/Pelt.prefab
+  uploadId: 437416

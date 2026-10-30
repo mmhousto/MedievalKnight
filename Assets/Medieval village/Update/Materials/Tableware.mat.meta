@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 4dbd4eac58aa0dc469aafac418306a7a
+timeCreated: 1543129789
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Update/Materials/Tableware.mat
+  uploadId: 437416

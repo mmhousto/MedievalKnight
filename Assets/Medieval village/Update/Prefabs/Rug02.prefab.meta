@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: d1c7df0beb398f7479102bb3b3ba9e4e
+timeCreated: 1543842379
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Update/Prefabs/Rug02.prefab
+  uploadId: 437416

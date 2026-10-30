@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 40452d0518fa3e74ea10906a6efc9668
+timeCreated: 1542982949
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Update/Materials/Cloth.mat
+  uploadId: 437416
