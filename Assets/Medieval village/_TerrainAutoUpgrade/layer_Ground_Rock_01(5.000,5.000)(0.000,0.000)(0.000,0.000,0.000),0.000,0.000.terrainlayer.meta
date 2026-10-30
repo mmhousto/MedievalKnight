@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 378a0b6ed60641943a4bb915851989e4
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/_TerrainAutoUpgrade/layer_Ground_Rock_01(5.000,5.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+  uploadId: 437416

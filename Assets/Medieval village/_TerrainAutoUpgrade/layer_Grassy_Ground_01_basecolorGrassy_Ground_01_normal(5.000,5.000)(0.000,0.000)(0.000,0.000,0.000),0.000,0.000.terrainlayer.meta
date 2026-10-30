@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 7cb0d9833ede43f4ca40511edb1ef0df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 8574412962073106934
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/_TerrainAutoUpgrade/layer_Grassy_Ground_01_basecolorGrassy_Ground_01_normal(5.000,5.000)(0.000,0.000)(0.000,0.000,0.000),0.000,0.000.terrainlayer
+  uploadId: 437416

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c5c05463e01ef8e41abd324c0bf1414c
+timeCreated: 1545127425
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 7400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 121867
+  packageName: Medieval Village Environment
+  packageVersion: 1.1
+  assetPath: Assets/Medieval village/Environment/Meshes/Animation/WindMill.anim
+  uploadId: 437416
